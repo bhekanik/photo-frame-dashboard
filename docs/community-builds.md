@@ -7,6 +7,12 @@ Built one? Add it in a pull request (one row, a link to your post, and optionall
 `docs/images/community/`), or open an issue. If you unlocked a frame that isn't in the
 [device index](devices.md), please [send in what you found](../README.md#check-for-updates-and-send-back-what-you-find).
 
+## Tablet builds
+
+| Build | Who |
+| --- | --- |
+| [Custom React dashboard in an Android WebView, with Home Assistant data, calendars, pickup planning and car instruments](android-tablet-dashboard.md) | [@bhekanik](https://github.com/bhekanik) |
+
 ## Hacked photo frames
 
 | Build&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Who |
