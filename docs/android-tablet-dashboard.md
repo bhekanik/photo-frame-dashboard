@@ -1,7 +1,7 @@
 # An Android tablet running a custom Home Assistant dashboard
 
-Wes’s video inspired this build: an older Android tablet running a custom React dashboard inside a
-small Android WebView app. Home Assistant supplies the calendar and device data, hosts the built web
+Wes’s video inspired this build: a Lenovo Tab M10 (TB-X505F), running Android 10, with a custom React
+dashboard inside a small Android WebView app. Home Assistant supplies the calendar and device data, hosts the built web
 files, and runs background reminders. The interface is a separate application, so its layout can be
 changed freely while keeping the existing integrations.
 
@@ -41,7 +41,7 @@ The overview is sized to fit the tablet without page scrolling. Large type makes
 appointment and immediate actions readable at a glance. Each subject opens a fuller page:
 
 - Calendar combines the current/next event with coming-up events. Events with a physical location can
-  show a leave-home time from a driving estimate plus a arrival buffer.
+  show a leave-home time from a driving estimate plus an arrival buffer.
 - Train pickups expand during configured collection periods. Outside those periods, the small card
   selects the next arrival whose leave-home deadline has not passed. A “Picked up” button collapses
   it for the remainder of that period. The full page has operator filters and a scrolling timetable.
